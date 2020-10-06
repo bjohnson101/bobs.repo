@@ -1,0 +1,15 @@
+--2020-10-06 16:46:11--  http://static.alta3.com/courses/cka/scripts/rbacmux.yml
+Resolving static.alta3.com (static.alta3.com)... 10.17.36.178
+Connecting to static.alta3.com (static.alta3.com)|10.17.36.178|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://static.alta3.com/courses/cka/scripts/rbacmux.yml [following]
+--2020-10-06 16:46:11--  https://static.alta3.com/courses/cka/scripts/rbacmux.yml
+Connecting to static.alta3.com (static.alta3.com)|10.17.36.178|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242 [application/octet-stream]
+Saving to: ‘/home/student/.tmuxinator/rbacmux.yml’
+
+                /home/student/.   0%[                                                      ]       0  --.-KB/s               /home/student/.tmuxinator/rbacm 100%[=====================================================>]     242  --.-KB/s    in 0s      
+
+2020-10-06 16:46:11 (17.4 MB/s) - ‘/home/student/.tmuxinator/rbacmux.yml’ saved [242/242]
+
